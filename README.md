@@ -73,6 +73,4 @@ If you use or adapt this work, please cite:
 ---
 
 ## 🤖 Acknowledgments
-
-This tutorial was developed with assistance from **ChatGPT (GPT-5, OpenAI)** for code structuring, documentation, and LaTeX formatting.  
-All content was reviewed and validated by the author.
+This notebook was developed with assistance from AI tools(ChatGPT Anthropic Claude and Google Gemini) for drafting, code refactoring, and LaTeX/Markdown formatting. All content was reviewed and verified by the author.

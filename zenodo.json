@@ -1,7 +1,7 @@
 {
   "title": "The Quantum Pigeonhole Paradox in Qiskit 2.x: From Strong to Weak Measurements",
   "creators": [
-    { "name": "Dikran Meliksetian", "affiliation": "Qiskit Advocate" }
+    { "name": "Dikran Meliksetian",  }
   ],
   "description": "A reproducible Qiskit 2.x notebook demonstrating the quantum pigeonhole paradox using ancilla parity checks, post-selection, and weak reversible measurements. Includes inline circuit visualizations, postselection analysis, and confidence interval estimates.",
   "license": "CC-BY-4.0",
@@ -11,9 +11,5 @@
   "publication_date": "2025-10-15",
   "language": "en",
   "related_identifiers": [
-    {
-      "relation": "isSupplementTo",
-      "identifier": "https://github.com/Qiskit/qiskit-tutorials"
-    }
   ]
 }
