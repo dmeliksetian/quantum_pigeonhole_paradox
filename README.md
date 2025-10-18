@@ -66,9 +66,8 @@ Execute all cells sequentially. Inline circuit diagrams will appear automaticall
 If you use or adapt this work, please cite:
 
 > Dikran Meliksetian (Qiskit Advocate),  
-> *The Quantum Pigeonhole Paradox in Qiskit 2.x: From Strong to Weak Measurements*,  
-> Qiskit Community Tutorial (2025).  
-> DOI: *to be assigned via Zenodo*.
+> *The Quantum Pigeonhole Paradox in Qiskit 2.x: From Strong to Weak Measurements*,   
+> DOI: 10.5281/zenodo.17387139.
 
 ---
 
