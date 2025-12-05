@@ -1,0 +1,10 @@
+title: "The Quantum Pigeonhole Paradox"
+format:
+  pdf:
+    colorlinks: true
+    include-in-header:
+      text: |
+        \usepackage{braket}
+        \usepackage{physics}
+        \usepackage{fvextra}
+        \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
